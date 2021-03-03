@@ -1,0 +1,4 @@
+﻿包括FlappyBird的DQN\DOUBLEDQN\DUELINGDQN\DQNNATURE算法，使用时需在FlappyBirdDQN中进行算法的选择
+由于训练时如果一直启用图像界面会对训练速度有较大的影响，故省去了图形界面，使用print提示训练进度。
+
+train_history中包含训练数据以及LOSS\REWARDS\SCORE随次数变化的趋势图

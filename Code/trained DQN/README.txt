@@ -1,0 +1,3 @@
+﻿充分训练的版本，若要重新训练，可以注释掉deep_q_network中的108-112行
+
+训练日志位于saved_networks
